@@ -37,3 +37,5 @@ http://localhost:8080?name=Peter&country=USA&car=Volvo
 ```
 
 Once you enter that URL in your browser, an alert should be displayed on screen.
+
+![](https://github.com/gonalc/socket-example/blob/master/video-to-gif-converter.gif)
